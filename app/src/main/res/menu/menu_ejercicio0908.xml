@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ejercicios.android.com.ejercicio0908.Ejercicio0908">
+    <item
+        android:id="@+id/salir"
+        android:title="@string/salir"
+        app:showAsAction="always|withText" />
+</menu>
